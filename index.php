@@ -15,16 +15,16 @@
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="addition.html">addition</a>
+                <a class="nav-link active" aria-current="page" href="addition.php">addition</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="subtraction.html">subtraction</a>
+                <a class="nav-link" href="subtraction.php">subtraction</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="multiplication.html">multiplication</a>
+                <a class="nav-link" href="multiplication.php">multiplication</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="division.html">division</a>
+                <a class="nav-link" href="division.php">division</a>
               </li>
             </ul>
           </div>
